@@ -1,4 +1,4 @@
-#Project structure
+# Project structure
 Desktop application for managing images.
 
 This project used DDD:
