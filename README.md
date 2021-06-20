@@ -59,6 +59,11 @@ app-image-api/
 └── docker-compose.yml
 </pre>
 
+This api is used for app desktop:
+```
+https://github.com/acostasg/app-image-desktop/blob/master/README.md
+```
+
 # Run Application
 
 Option 1)
