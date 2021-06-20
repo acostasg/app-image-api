@@ -64,9 +64,8 @@ app-image-api/
 </pre>
 
 This api is used for app desktop:
-```
-https://github.com/acostasg/app-image-desktop/blob/master/README.md
-```
+- https://github.com/acostasg/app-image-desktop/
+
 
 # Run Application
 
