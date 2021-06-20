@@ -1,0 +1,10 @@
+port: 8080
+debug: True
+secretKey: "{-qMP.;-j<~OL~:"
+connection:
+  adapter: mysql+pymysql
+  database: image
+  username: root
+  password: veepee
+  host: 127.0.0.1
+  port: 3306
