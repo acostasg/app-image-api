@@ -1,7 +1,11 @@
 #Project structure
 Desktop application for managing images.
 
-https://flask.palletsprojects.com/en/1.1.x/tutorial/layout/
+This project used DDD:
+- https://en.wikipedia.org/wiki/Domain-driven_design
+
+And flask for generate aip:
+- https://flask.palletsprojects.com/en/1.1.x/tutorial/layout/
 
 <pre>
 app-image-api/
