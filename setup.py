@@ -11,7 +11,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='App Image Desktop',
+    name='App Image Api',
 
     test_suite='nose.collector',
     tests_require=['nose'],
@@ -22,7 +22,7 @@ setup(
     version='0.9.1',
 
     description='Api for desktop application for managing images',
-    long_description='Api for desktop application for managing images of the studies in the references of the campaigns in Brazil.',
+    long_description='Api for desktop application for managing images of the studies in the references.',
 
     # The project's main homepage.
     url='https://github.com/acostasg/app-image-api',
@@ -69,7 +69,8 @@ setup(
     # your project is installed. For an analysis of "install_requires" vs pip's
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['Flask', 'flask-sqlalchemy', 'flask-injector', 'envyaml', 'injector', 'setuptools', 'pymysql', 'mock'],
+    install_requires=['Flask', 'flask-sqlalchemy', 'flask-injector', 'envyaml', 'injector', 'setuptools', 'pymysql',
+                      'mock'],
 
     # List additional groups of dependencies here (e.g. development
     # dependencies). You can install these using the following syntax,
